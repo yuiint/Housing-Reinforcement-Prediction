@@ -12,6 +12,7 @@ root/
   |── data/
   |   |── X_test.csv
   |   |── train.csv
+  |   |── data attribute information.csv
   |   └── train_preproc.csv
   |── .gitignore
   |── README.md

@@ -1,0 +1,59 @@
+Attribute,Description
+D_Dbuild,興建年代
+D_floor,樓層數
+Total_Floor,-
+D_floorTA,The total area of building
+Total_Height,總樓高
+D_basintype,地盤種類
+D_475Acc,475年設計地表加速度
+D_sds,工址短週期水平譜加速度係數Sds
+D_sd1,工址一秒週期水平譜加速度係數Sd1
+D_td0,工址短週期與中、長週期之分界T0d
+D_Tx,結構物基本振動週期Tx（經驗值）
+D_Ty,結構物基本振動週期Ty（經驗值）
+D_CLsmall,CL濃度合格數量
+D_MaxCL,CL濃度最大值
+D_CLlarge,CL濃度超標數量
+D_NeutralDepth,最大中性化深度
+Avg_Confc,平均混凝土抗壓強度
+Avg_MBfy,平均主筋強度
+Avg_stify,平均箍筋強度
+D_YRCwallA,Y向RC牆數量
+D_X3brickwall,X向三面圍束磚牆數量
+D_Y3brickwall,Y向三面圍束磚牆數量
+D_X4brickwall,X向四面圍束磚牆數量
+D_Y4brickwall,Y向四面圍束磚牆數量
+Total_DeadLoad,總靜載重
+Total_LiveLoad,總活載重
+D_Demand,475年耐震需求
+D_1floorclasscol,一樓教室柱數量
+D_1floorclasscolA,一樓教室柱數量
+D_1floorinsidecol,一樓隔間柱數量
+D_1floorinsidecolA,一樓隔間柱總面積
+D_1floorcorridorcol,一樓走廊柱數量
+D_1floorcorridorcolA,一樓走廊柱總面積
+D_nonstructure,非結構牆
+D_Structure_1,1:雙邊走廊，廊外有柱
+D_Structure_2,2:雙邊走廊，廊外無柱
+D_Structure_3,3:單邊走廊，廊外有柱
+D_Structure_4,4:單邊走廊，廊外無柱
+D_Structure_5,5:中間走廊
+D_Structure_6,6:其他
+D_sructuresystem_NaN,基本結構系統未填
+D_sructuresystem_Precast_concrete,預鑄混凝土
+D_sructuresystem_SRC,鋼骨鋼筋混凝土
+D_sructuresystem_Steel,鋼鐵構架
+D_sructuresystem_wood_or_Synthetic_resins,木或合成樹脂
+D_sructuresystem_brick_wall_with_wooden_pillar,磚石牆木柱
+D_sructuresystem_reinforced_brick,加強磚
+D_sructuresystem_RC,鋼筋混凝土
+D_sructuresystem_brick_wall,磚石牆載重
+D_I,建築物用途係數
+D_windows,是否有窗台
+D_partitionwall,是否有隔間牆
+D_sms,工址最大考量短週期水平譜加速度係數 Sms
+D_sm1,工址最大考量一秒週期水平譜加速度係數 Sm1
+D_tm0,工址最大考量短週期與中、長週期之分界 Tm0
+D_Ra_Capacity,-
+D_Ra_CDR,-
+D_isR,是否需要補強 (0:不需補強 1:需補強or拆除)
